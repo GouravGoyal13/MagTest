@@ -1,3 +1,3 @@
 # MagTest
  
-Access from menu items MagTool > ProductDataEditor
+Access from menu items MagTools > ProductDataEditor
